@@ -1,2 +1,2 @@
-# Planejamento-Em-Presa
-Empreza de texte para o XPTO de dinheiro.
+# Planejamento da Empresa
+Empresa de teste para o XPTO de dinheiro.
